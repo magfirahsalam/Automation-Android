@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign Up with incorrect email format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdc92c16-35ad-4f56-94d9-a7b5ec4d41ce</testCaseGuid>
+</TestCaseEntity>
