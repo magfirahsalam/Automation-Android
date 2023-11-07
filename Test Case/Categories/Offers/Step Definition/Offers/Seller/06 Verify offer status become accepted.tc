@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06 Verify offer status become accepted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac3e40c5-92dc-4ed5-8dbf-7e7840c70dc3</testCaseGuid>
+</TestCaseEntity>
