@@ -1,0 +1,292 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "User search with available product name",
+        "description": "",
+        "id": "categories;user-search-with-available-product-name",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 35131846300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user open apps",
+            "match": {
+              "location": "Categories.user_open_apps()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13474709300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user input available product name",
+            "match": {
+              "location": "Categories.user_input_available_product_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 18247870800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user can find the available product name",
+            "match": {
+              "location": "Categories.user_can_find_the_available_prodcut_name()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Categories"
+          },
+          {
+            "name": "@ctgrs1"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "User search with unavailable product name",
+        "description": "",
+        "id": "categories;user-search-with-unavailable-product-name",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22831563200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user already open application",
+            "match": {
+              "location": "Categories.user_already_open_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9139825800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user input unavailable product name",
+            "match": {
+              "location": "Categories.user_input_unavailable_product_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3223495300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user cannot find the unavailable product",
+            "match": {
+              "location": "Categories.user_cannot_find_the_unavailable_product()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Categories"
+          },
+          {
+            "name": "@ctgrs2"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "User search with blank product name",
+        "description": "",
+        "id": "categories;user-search-with-blank-product-name",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 21623903800,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user open app",
+            "match": {
+              "location": "Categories.user_open_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3760514700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user does not input product name",
+            "match": {
+              "location": "Categories.user_does_not_input_product_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3271038100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user cannot find blank product",
+            "match": {
+              "location": "Categories.user_cannot_find_blank_product()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Categories"
+          },
+          {
+            "name": "@ctgrs3"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "User search with input space only",
+        "description": "",
+        "id": "categories;user-search-with-input-space-only",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22061536000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user open  application seconhand",
+            "match": {
+              "location": "Categories.user_open_application_seconhand()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7808417600,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user  input prodcut name with double space",
+            "match": {
+              "location": "Categories.user_input_prodcut_name_with_double_space()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 17751211900,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user can find the random product contain double space",
+            "match": {
+              "location": "Categories.user_can_find_the_random_product_contain_double_space()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Categories"
+          },
+          {
+            "name": "@ctgrs4"
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "user search product by categories",
+        "description": "",
+        "id": "categories;user-search-product-by-categories",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22539698400,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user already open app secondhand",
+            "match": {
+              "location": "Categories.user_already_open_app_secondhand()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12124245900,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user select category",
+            "match": {
+              "location": "Categories.user_select_category()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9735046900,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user can find the product by the category",
+            "match": {
+              "location": "Categories.user_can_find_the_product_by_the_category()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Categories"
+          },
+          {
+            "name": "@ctgrs5"
+          }
+        ]
+      }
+    ],
+    "name": "Categories",
+    "description": "",
+    "id": "categories",
+    "keyword": "Feature",
+    "uri": "Include/features/Categories.feature",
+    "tags": [
+      {
+        "name": "@Categories",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
