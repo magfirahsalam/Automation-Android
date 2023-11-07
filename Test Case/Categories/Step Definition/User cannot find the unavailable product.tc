@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User cannot find the unavailable product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5d2f734-f453-43a7-b911-92f2a9cfb51d</testCaseGuid>
+</TestCaseEntity>

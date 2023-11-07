@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User input unavailable product name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db00bfbd-8928-49d6-bef6-42c2df7b2f0c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e12f133-142a-4fbb-b553-bf37feaff9eb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'kacang goreng pahit'</defaultValue>
+      <description></description>
+      <id>4e12f133-142a-4fbb-b553-bf37feaff9eb</id>
+      <masked>false</masked>
+      <name>unavailableproduct</name>
+   </variable>
+</TestCaseEntity>
