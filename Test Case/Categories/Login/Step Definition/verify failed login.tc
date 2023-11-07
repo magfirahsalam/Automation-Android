@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify failed login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f343d9a6-798e-4acc-aea6-6c75a0f7b89a</testCaseGuid>
+</TestCaseEntity>
