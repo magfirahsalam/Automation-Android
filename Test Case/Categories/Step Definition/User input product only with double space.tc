@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User input product only with double space</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c94cb0a7-5cc9-40ad-989a-6ff47f69a2c7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6c28220-d4ad-4e8f-b9fb-1f9872c5eed5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'  '</defaultValue>
+      <description></description>
+      <id>f6c28220-d4ad-4e8f-b9fb-1f9872c5eed5</id>
+      <masked>false</masked>
+      <name>space</name>
+   </variable>
+</TestCaseEntity>
