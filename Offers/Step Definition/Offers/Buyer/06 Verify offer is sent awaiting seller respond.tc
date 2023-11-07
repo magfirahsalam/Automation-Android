@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06 Verify offer is sent awaiting seller respond</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>371c8fa5-7840-4ec4-95d5-56e9beae7e46</testCaseGuid>
+</TestCaseEntity>

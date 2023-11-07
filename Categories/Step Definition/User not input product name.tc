@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User not input product name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dc5a69c-d1ae-4b46-b753-1fdd7e7ae235</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25526c32-233a-44e8-98e0-7705df49c163</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'sepatu kaca'</defaultValue>
+      <description></description>
+      <id>25526c32-233a-44e8-98e0-7705df49c163</id>
+      <masked>false</masked>
+      <name>availableproduct</name>
+   </variable>
+</TestCaseEntity>
