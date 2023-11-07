@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User cannot find blank product name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a208cc7-da72-47ad-831a-3ee4002b03d8</testCaseGuid>
+</TestCaseEntity>
